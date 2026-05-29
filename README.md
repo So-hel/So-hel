@@ -183,10 +183,6 @@ founded   = "Cyber Beyonder — making cybersecurity simple & practical"
 &nbsp;
 <a href="https://www.linkedin.com/in/sohel-shaik-894288282/"><img src="https://img.shields.io/badge/LinkedIn-Sohel%20Shaik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<a href="https://www.youtube.com/@Hell-Kill"><img src="https://img.shields.io/badge/YouTube-Cyber%20Beyonder-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-&nbsp;
-<a href="https://discord.com/invite/fJ4SDB5GEs"><img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:000000,50:003300,100:000000&section=footer" width="100%"/>
