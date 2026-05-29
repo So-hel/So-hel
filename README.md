@@ -126,6 +126,17 @@ founded   = "Cyber Beyonder — making cybersecurity simple & practical"
 
 <br>
 
+<!-- Header info bar -->
+<img src="https://img.shields.io/badge/📅_YEARLY_ACTIVITY-2026-0d1117?style=for-the-badge&labelColor=0d1117&color=00FF41"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🐍_SNAKE-RADIUM_RED-FF0000?style=for-the-badge&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🟢_COMMITS-RADIUM_GREEN-00FF41?style=for-the-badge&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🔄_UPDATES-EVERY_6H-555555?style=for-the-badge&labelColor=0d1117"/>
+
+<br><br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/So-hel/So-hel/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/So-hel/So-hel/output/github-snake.svg" />
