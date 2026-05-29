@@ -38,8 +38,6 @@
   Building tools that matter.
 </pre>
 
-<br clear="right"/>
-
 ---
 
 <div align="center"><h3>&#187;&#187; CURRENT OBJECTIVES</h3></div>
@@ -117,6 +115,22 @@ founded   = "Cyber Beyonder — making cybersecurity simple & practical"
 | ⬆️ **Privilege Escalation** | 🕵️ **Enumeration & Recon** | 🏢 **Active Directory** |
 | 🔬 **Digital Forensics** | 🖥️ **Security Ops (SOC)** | 🦠 **Malware Analysis** |
 | 🔐 **Cryptography** | 📡 **Wireless Security** | 🤖 **Scripting & Automation** |
+
+</div>
+
+---
+
+<div align="center">
+
+<h3>&#187;&#187; CONTRIBUTION SNAKE</h3>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/So-hel/So-hel/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/So-hel/So-hel/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/So-hel/So-hel/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
