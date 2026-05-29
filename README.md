@@ -144,26 +144,6 @@ founded   = "Cyber Beyonder — making cybersecurity simple & practical"
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=So-hel&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&area_color=003300&hide_border=true&radius=6" width="100%"/>
 </a>
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=So-hel&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-<h3>&#187;&#187; SNAKE</h3>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/So-hel/So-hel/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/So-hel/So-hel/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/So-hel/So-hel/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
 </div>
 
 ---
